@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karleen!</h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on learning Typescript
+- 🔭 I’m currently learning Typescript
 - 👀 My programming skills have matured during my time as Code Your Future Trainee.
 - 📫 How to reach me **karleenmsrichards@gmail.com**
 
