@@ -24,6 +24,6 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karleenmsrichards&theme=react&hide=stars,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karleenmsrichards&langs_count=5&theme=react&layout=compact)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karleenmsrichards=react&count_private=true)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karleenmsrichards&theme=react&count_private=true)
 
   </div>
