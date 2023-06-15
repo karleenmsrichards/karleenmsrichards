@@ -2,7 +2,6 @@
 <h3 align="center">I am very passionate about coding and I am very meticulous. I am also very much interested in AI technology and Product Management.</h3>
 
 - I’m currently learning Typescript
-- My programming skills have matured during my time as a Fullstack Trainee at Code Your Future London since I have been involved in a very intense programming training.
 - 📫 Please contact me at **karleenmsrichards@gmail.com**
 
 
