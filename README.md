@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Karleen 🙋🏾‍♀️!</h1>
-<h3 align="center">I am very passionate about coding and I am a meticulous individual. I am also enthusiastic about AI technology and Product Management.</h3>
+<h1 align="center">Hi, I'm Karleen 🙋🏾‍♀️!</h1>
+<h3 align="center">I am very passionate about programming and I have a meticulous eye. I am also enthusiastic about AI technology and Product Management.</h3>
 
 - I’m currently learning Typescript
 - 📫 Please contact me at **karleenmsrichards@gmail.com**
