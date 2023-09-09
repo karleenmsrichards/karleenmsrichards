@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Karleen 🙋🏾‍♀️!</h1>
+<h2 align="center">✉️ Email me here: **karleenmsrichards@gmail.com**</h2>
 <h3 align="center">I am very passionate about programming and I have a meticulous eye. I am also enthusiastic about AI technology and Product Management.</h3>
-
-✉️ Email me here: **karleenmsrichards@gmail.com**
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
