@@ -1,4 +1,4 @@
-<h1 align="center">Hi Hi 👋, I'm Karleen!</h1>
+<h1 align="center">👋 Hi hi, I'm Karleen!</h1>
 <h3 align="center">I am very passionate about coding and I am a meticulous individual. I am also enthusiastic about AI technology and Product Management.</h3>
 
 - I’m currently learning Typescript
