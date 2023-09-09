@@ -2,7 +2,7 @@
 <p align="center">✉️ karleenmsrichards@gmail.com</p>
 <h3 align="center">I am very passionate about programming and I have a meticulous eye. I am also enthusiastic about AI technology and Product Management.</h3>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me on LinkedIn</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/karleen-ms-richards/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karleen richards" height="30" width="40" /></a>
 </p>
