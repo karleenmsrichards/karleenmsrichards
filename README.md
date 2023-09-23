@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Karleen 🙋🏾‍♀️!</h1>
 
 <h3 align="center">I am very passionate about programming and I have a meticulous eye. I am also enthusiastic about UX/UI, AI technology and Product Management.</h3>
-<h3>Check out my portfolio  💼!</h3>
+<h3 align="center">Check out my portfolio  💼!</h3>
 <p align="center"><a  href="https://karleenmsrichards-portfolio.onrender.com" target="_blank" rel="noreferrer">PORTFOLIO </a></p>
 
 <h3 align="center">Let's Connect ⛓</h3>
